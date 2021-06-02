@@ -1,6 +1,7 @@
 # Electric_Circuit_in_C
 <br>
-## Homepage
+##Homepage
+<br>
 This is a simple electric bulb circuit. In this project, when a user click on switch-on button the bulb glows and the battery power decreased by 5%.On Clicking Switch-off the bulb glows off and the battery decreasing unit is stopped. when the battery power is low the power supply is off. 
 
 ### Screenshots
