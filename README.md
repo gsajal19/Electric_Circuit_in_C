@@ -9,11 +9,11 @@ This is a simple electric bulb circuit. In this project, when a user click on sw
 ### Screenshots
 
 <br>
-<img src="https://sajalgupta19.github.io/Electric_Circuit_in_C/icons/1.PNG" height="300px" width="500px" align="center"/>
+<img src="https://gsajal19.github.io/Electric_Circuit_in_C/icons/1.PNG" height="300px" width="500px" align="center"/>
 <br>
-<img src="https://sajalgupta19.github.io/Electric_Circuit_in_C/icons/2.PNG" height="300px" width="500px" align="center"/>
+<img src="https://gsajal19.github.io/Electric_Circuit_in_C/icons/2.PNG" height="300px" width="500px" align="center"/>
 <br>
-<img src="https://sajalgupta19.github.io/Electric_Circuit_in_C/icons/3.PNG" height="300px" width="500px" align="center"/>
+<img src="https://gsajal19.github.io/Electric_Circuit_in_C/icons/3.PNG" height="300px" width="500px" align="center"/>
 <br>
-<img src="https://sajalgupta19.github.io/Electric_Circuit_in_C/icons/4.PNG" height="300px" width="500px" align="center"/>
+<img src="https://gsajal19.github.io/Electric_Circuit_in_C/icons/4.PNG" height="300px" width="500px" align="center"/>
  
